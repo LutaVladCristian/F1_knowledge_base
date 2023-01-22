@@ -1,0 +1,621 @@
+<F1>
+    <fapte>
+        <pilots>
+            <pilot>Lewis Hamilton</pilot>
+            <pilot>Valtteri Bottas</pilot>
+            <pilot>Max Verstappen</pilot>
+            <pilot>Charles Leclerc</pilot>
+            <pilot>Nicholas Latifi</pilot>
+            <pilot>Carlos Sainz</pilot>
+            <pilot>Mick Schumacher</pilot>
+            <pilot>Sergio Perez</pilot>
+            <pilot>Yuki Tsunoda</pilot>
+            <pilot>Lance Stroll</pilot>
+            <pilot>Fernando Alonso</pilot>
+            <pilot>Sebastian Vettel</pilot>
+            <pilot>George Russell</pilot>
+            <pilot>Kevin Magnussen</pilot>
+            <pilot>Esteban Ocon</pilot>
+            <pilot>Zhou Guanyu</pilot>
+            <pilot>Daniel Ricciardo</pilot>
+            <pilot>Lando Norris</pilot>
+            <pilot>Alex Albon</pilot>
+            <pilot>Pierre Gasly</pilot>
+        </pilots>
+
+        <curse_neterminate>
+            <cursa_neterminata>
+                <pilot>Sergio Perez</pilot>
+                <cursa>Bahrain</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Bahrain</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Pierre Gasly</pilot>
+                <cursa>Bahrain</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Alex Albon</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Daniel Ricciardo</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Nicholas Latifi</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Australia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>Australia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Sebastian Vettel</pilot>
+                <cursa>Australia</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>Emilia Romagna</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Emilia Romagna</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Kevin Magnussen</pilot>
+                <cursa>Miami</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Sebastian Vettel</pilot>
+                <cursa>Miami</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Pierre Gasly</pilot>
+                <cursa>Miami</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lando Norris</pilot>
+                <cursa>Miami</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Zhou Guanyu</pilot>
+                <cursa>Miami</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Zhou Guanyu</pilot>
+                <cursa>Spain</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>Spain</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Alex Albon</pilot>
+                <cursa>Monaco</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Kevin Magnussen</pilot>
+                <cursa>Monaco</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Mick Schumacher</pilot>
+                <cursa>Monaco</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lance Stroll</pilot>
+                <cursa>Azerbaijan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>Azerbaijan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>Azerbaijan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Kevin Magnussen</pilot>
+                <cursa>Azerbaijan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Zhou Guanyu</pilot>
+                <cursa>Azerbaijan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Mick Schumacher</pilot>
+                <cursa>Canada</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Yuki Tsunoda</pilot>
+                <cursa>Canada</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Sergio Perez</pilot>
+                <cursa>Canada</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Zhou Guanyu</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>George Russell</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Pierre Gasly</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Esteban Ocon</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Alex Albon</pilot>
+                <cursa>UK</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>Austria</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Nicholas Latifi</pilot>
+                <cursa>Austria</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Sergio Perez</pilot>
+                <cursa>Austria</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>France</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Nicholas Latifi</pilot>
+                <cursa>France</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Kevin Magnussen</pilot>
+                <cursa>France</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Yuki Tsunoda</pilot>
+                <cursa>France</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>Hungary</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>Netherlands</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Yuki Tsunoda</pilot>
+                <cursa>Netherlands</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lance Stroll</pilot>
+                <cursa>Italy</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Italy</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Sebastian Vettel</pilot>
+                <cursa>Italy</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Daniel Ricciardo</pilot>
+                <cursa>Italy</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>Belgium</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lewis Hamilton</pilot>
+                <cursa>Belgium</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Yuki Tsunoda</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Esteban Ocon</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Alex Albon</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Nicholas Latifi</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Zhou Guanyu</pilot>
+                <cursa>Singapore</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>Japan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Alex Albon</pilot>
+                <cursa>Japan</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>US</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Valtteri Bottas</pilot>
+                <cursa>US</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lance Stroll</pilot>
+                <cursa>US</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Mexico</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Yuki Tsunoda</pilot>
+                <cursa>Mexico</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Kevin Magnussen</pilot>
+                <cursa>Brazil</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Daniel Ricciardo</pilot>
+                <cursa>Brazil</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lando Norris</pilot>
+                <cursa>Brazil</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Lewis Hamilton</pilot>
+                <cursa>Abu Dhabi</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Nicholas Latifi</pilot>
+                <cursa>Abu Dhabi</cursa>
+            </cursa_neterminata>
+
+            <cursa_neterminata>
+                <pilot>Fernando Alonso</pilot>
+                <cursa>Abu Dhabi</cursa>
+            </cursa_neterminata>
+
+        </curse_neterminate>
+
+        <pneuri>
+            <pneu>soft</pneu>
+            <pneu>medium</pneu>
+            <pneu>hard</pneu>
+            <pneu>wet</pneu>
+            <pneu>intermediate</pneu>
+        </pneuri>
+
+        <stare>
+            <uzura>consumate</uzura>
+            <uzura>noi</uzura>
+            <uzura>performance</uzura>
+        </stare>
+
+        <clasari_primu_loc>
+            <pilot_cursa>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>Bahrain</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Saudi Arabia</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>Australia</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Emilia Romagna</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Miami</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Spain</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Azerbaijan</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Canada</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Carlos Sainz</pilot>
+                <cursa>UK</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>France</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Hungary</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Belgium</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Netherlands</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Italy</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Sergio Perez</pilot>
+                <cursa>Monaco</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Charles Leclerc</pilot>
+                <cursa>Austria</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Sergio Perez</pilot>
+                <cursa>Singapore</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Japan</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>US</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Mexico</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>George Russell</pilot>
+                <cursa>Brazil</cursa>
+            </pilot_cursa>
+
+            <pilot_cursa>
+                <pilot>Max Verstappen</pilot>
+                <cursa>Abu Dhabi</cursa>
+            </pilot_cursa>
+
+        </clasari_primu_loc>
+
+        <piloti_echipe>
+            <pilot_echipa>
+                <pilot>Lewis Hamilton</pilot>
+                <echipa>Mercedes</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>George Russell</pilot>
+                <echipa>Mercedes</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Max Verstappen</pilot>
+                <echipa>Red Bull</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Sergio Perez</pilot>
+                <echipa>Red Bull</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Charles Leclerc</pilot>
+                <echipa>Ferrari</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Carlos Sainz</pilot>
+                <echipa>Ferrari</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Pierre Gasly</pilot>
+                <echipa>Alpha Tauri</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Yuki Tsunoda</pilot>
+                <echipa>Alpha Tauri</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Valtteri Bottas</pilot>
+                <echipa>Alfa Romeo</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Zhou Guanyu</pilot>
+                <echipa>Alfa Romeo</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Daniel Ricciardo</pilot>
+                <echipa>McLaren</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Lando Norris</pilot>
+                <echipa>McLaren</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Nicholas Latifi</pilot>
+                <echipa>Williams</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Alex Albon</pilot>
+                <echipa>Williams</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Kevin Magnussen</pilot>
+                <echipa>Haas</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Mick Schumacher</pilot>
+                <echipa>Haas</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Lance Stroll</pilot>
+                <echipa>Aston Martin</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Sebastian Vettel</pilot>
+                <echipa>Aston Martin</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Fernando Alonso</pilot>
+                <echipa>Alpine</echipa>
+            </pilot_echipa>
+
+            <pilot_echipa>
+                <pilot>Esteban Ocon</pilot>
+                <echipa>Alpine</echipa>
+            </pilot_echipa>
+
+        </piloti_echipe>
+
+    </fapte>
+
+</F1>

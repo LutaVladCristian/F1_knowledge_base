@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>895</width>
+    <height>840</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>895</width>
+    <height>840</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>895</width>
+    <height>840</height>
+   </size>
+  </property>
+  <property name="mouseTracking">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>F1 2022 Standings</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background: rgb(45,45,68);</string>
+  </property>
+  <property name="tabShape">
+   <enum>QTabWidget::Rounded</enum>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label_image">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>551</width>
+      <height>821</height>
+     </rect>
+    </property>
+    <property name="acceptDrops">
+     <bool>true</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">width: auto;
+height: auto;
+</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::NoFrame</enum>
+    </property>
+    <property name="lineWidth">
+     <number>0</number>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>assets/453be7bf305ba1db8a5af5df8134bd27.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonOvertakeSimulator">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>700</y>
+      <width>231</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(48,48,63);
+color: white;
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 16px;
+font-weight: bold;
+cursor: pointer;
+
+</string>
+    </property>
+    <property name="text">
+     <string>Overtake Simulator</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonConstructor">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>510</y>
+      <width>231</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(48,48,63);
+color: white;
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 12px;
+font-weight: bold;
+cursor: pointer;
+
+</string>
+    </property>
+    <property name="text">
+     <string>2022 Constructor Champion</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonChampion">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>600</y>
+      <width>231</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(48,48,63);
+color: white;
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 16px;
+font-weight: bold;
+cursor: pointer;
+
+</string>
+    </property>
+    <property name="text">
+     <string>2022 World Champion</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>30</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255,255,255);
+font: center;
+</string>
+    </property>
+    <item>
+     <property name="text">
+      <string>-pilots-</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Hamilton</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Leclerc</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Sainz</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Verstappen</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Russell</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ocon</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Gasly</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ricciardo</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Norris</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Bottas</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Zhou</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Stroll</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Alonso</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Magnussen</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Schumacher</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Tsunoda</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Albon</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Latifi</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Vettel</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Perez</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_title">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>50</y>
+      <width>541</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+font: 30px;
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>F1 2022 seasson
+-standings-</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_introduction">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>160</y>
+      <width>541</width>
+      <height>191</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>This is a piece of software that is ment
+for who is new to this sport.
+It provides you with the results of last F1 seasson, 
+that had 22 races and took place in around 20 different countries. 
+Also you can try the Overtake Simulator, a second part of this
+software, in order to make your own predections about overtakes during
+a race and have fun with your friends.
+Enjoy!</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_name">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>100</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>Full name:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_Win">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>190</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>Seasson Wins:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_Win_loc">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>240</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>Win Locations:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_DNF">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>510</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>Seasson DNFs: </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_DNF_loc">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>550</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>DNF Locations:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_team">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>140</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);
+</string>
+    </property>
+    <property name="text">
+     <string>Team:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_Win_list">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>270</y>
+      <width>281</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_DNF_list">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>580</y>
+      <width>281</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;
+
+color: rgb(255,255,255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonConstructor_2">
+    <property name="geometry">
+     <rect>
+      <x>740</x>
+      <y>30</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0,0,0);
+color: white;
+border-radius: 5px;
+padding: 10px 20px;
+font-size: 12px;
+font-weight: bold;
+cursor: pointer;
+
+</string>
+    </property>
+    <property name="text">
+     <string>Search</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
