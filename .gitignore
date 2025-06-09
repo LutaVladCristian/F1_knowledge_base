@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+pyvenv.cfg
+
+# Installed files and dependencies
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+instance/
+*.sqlite3
+*.db
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Temporary files and folders
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+.DS_Store
+Thumbs.db
+.idea/
+.project
+.pydevproject
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE Specific
+.vscode/
+__workspace/
+*.code-workspace
+
+# Linter specific files
+.mypy_cache/
+.pyre/
+.pytype/
+pylint.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini

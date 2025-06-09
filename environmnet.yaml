@@ -1,0 +1,11 @@
+name: pyqt_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pyqt=5
+  - matplotlib
+  - pip
+  - pip:
+      - pillow  # If you're working with PIL images
