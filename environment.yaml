@@ -7,5 +7,3 @@ dependencies:
   - pyqt=5
   - matplotlib
   - pip
-  - pip:
-      - pillow  # If you're working with PIL images
