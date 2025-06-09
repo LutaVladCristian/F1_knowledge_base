@@ -11,16 +11,16 @@ Also, there is F1_knowledge_base.pl that is a Prolog file, and it represents the
 
 ![f1_3](https://user-images.githubusercontent.com/62925188/231103051-8bbace37-21e5-4169-a294-3f618eef783f.jpg)
 
-To install and run locally, run the following commands:
-Create the environment
-```conda env create -f environment.yaml```
-Activate the environment
-```conda activate pyqt_env```
-Run the application (terminal/cmd)
-```python guy.py```
+To install and run locally, run the following commands:<br>
+Create the environment<br>
+<pre>```conda env create -f environment.yaml```</pre>
+Activate the environment<br>
+<pre>```conda activate pyqt_env```</pre>
+Run the application (terminal/cmd)<br>
+<pre>```python guy.py```</pre>
 
-To remove the virtual environment, run the following commands:
-Deactivate the environment
-```conda deactivate pyqt_env```
-Remove the environment
-```conda remove --name pyqt_env --all```
+To remove the virtual environment, run the following commands:<br>
+Deactivate the environment<br>
+<pre>```conda deactivate pyqt_env```</pre>
+Remove the environment<br>
+<pre>```conda remove --name pyqt_env --all```</pre>
