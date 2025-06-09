@@ -11,16 +11,16 @@ Also, there is F1_knowledge_base.pl that is a Prolog file, and it represents the
 
 ![f1_3](https://user-images.githubusercontent.com/62925188/231103051-8bbace37-21e5-4169-a294-3f618eef783f.jpg)
 
-To install and run locally, run the following commands:<br>
+To install and run locally, run the following commands using Anaconda:<br>
 -> create the environment<br>
 <pre>conda env create -f environment.yaml</pre>
 -> activate the environment<br>
-<pre>conda activate pyqt_env</pre>
+<pre>conda activate f1_standings_app</pre>
 -> run the application (terminal/cmd)<br>
-<pre>python guy.py</pre>
+<pre>python gui.py</pre>
 
 To remove the virtual environment, run the following commands:<br>
 -> deactivate the environment<br>
-<pre>conda deactivate pyqt_env</pre>
+<pre>conda deactivate f1_standings_app</pre>
 -> remove the environment<br>
-<pre>conda remove --name pyqt_env --all</pre>
+<pre>conda remove --name f1_standings_app --all</pre>
